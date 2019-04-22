@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//handlers/base_handler.py=utf-8
+encoding//opers/mysqlcnf_opers.py=utf-8
+encoding//opers/snapshot_opers.py=utf-8
+encoding//utils/common.py=utf-8
+encoding/main.py=utf-8
